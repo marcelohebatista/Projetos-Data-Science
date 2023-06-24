@@ -1,0 +1,5 @@
+ipython SVM_Exemplo_001.ipynb
+ipython SVM_Exemplo_002.ipynb
+ipython SVM_Exemplo_003.ipynb
+ipython SVM_Exemplo_004.ipynb
+ipython SVM_Exemplo_005.ipynb
