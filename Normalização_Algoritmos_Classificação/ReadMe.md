@@ -22,7 +22,7 @@ Instruções e links de utilização.
 
 3) Abaixo a relação dos arquivos jupyter notebook que serão utilizados:
 
-- Sem_Normalizacao.ipynb
+- Normalizacao_without.ipynb
 - Normalizacao_Binarizer.ipynb
 - Normalizacao_MinMaxScaler.ipynb
 - Normalizacao_Normalizer.ipynb
