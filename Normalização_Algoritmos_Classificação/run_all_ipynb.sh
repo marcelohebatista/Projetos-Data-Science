@@ -1,0 +1,8 @@
+ipython Normalizacao_Start.ipynb
+ipython Normalizacao_without.ipynb
+ipython Normalizacao_Binarizer.ipynb
+ipython Normalizacao_MinMaxScaler.ipynb
+ipython Normalizacao_Normalizer.ipynb
+ipython Normalizacao_StandardScaler.ipynb
+
+
