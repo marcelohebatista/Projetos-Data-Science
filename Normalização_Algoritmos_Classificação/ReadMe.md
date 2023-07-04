@@ -6,6 +6,14 @@ Muitos algoritmos de Machine Learning irão se beneficiar com esse processo e pr
 
 Os arquivos jupyter notebook produzidos fornecerão exemplos práticos utilizando alguns métodos, com alguns algoritmos de classificação.
 
+Não temos como saber qual algoritmo vai funcionar da melhor forma com os nossos dados. Precisamos testar com alguns algoritmos nosso dataset. Para tanto iremos testar nosso conjunto de dados com os Algoritmos de Machine Learning listados abaixo:
+
+- LR - Logistic Regression
+- KNN - K Nearest Neighbors
+- CART - Classification and Regression Trees
+- SVM -  Support Vector Machines
+- RF - Random Forest
+
 Instruções e links de utilização.
 
 1) Utilize o shell [clear_files.sh] para limpar os arquivos .csv e .png 
@@ -48,12 +56,3 @@ Essa técnica serve para transformar os atributos com distribuição Gaussiana (
 Isso é útil para algoritmos que esperam que os dados estejam com uma distribuição Gaussiana, como regressão linear, regressão logística e linear discriminant analysis. Funciona quando os dados já estão na mesma escala. O scikit-learn possui a chamada StandardScaler().
 
 https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html
-
-
-5) Não temos como saber qual algoritmo vai funcionar da melhor forma com os nossos dados. Precisamos testar com alguns algoritmos nosso dataset. Para tanto iremos testar nosso conjunto de dados com os Algoritmos de Machine Learning listados abaixo:
-
-- LR - Logistic Regression
-- KNN - K Nearest Neighbors
-- CART - Classification and Regression Trees
-- SVM -  Support Vector Machines
-- RF - Random Forest
