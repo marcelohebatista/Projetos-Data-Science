@@ -52,8 +52,8 @@ https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.Standard
 
 5) Não temos como saber qual algoritmo vai funcionar da melhor forma com os nossos dados. Precisamos testar com alguns algoritmos nosso dataset. Para tanto iremos testar nosso conjunto de dados com os Algoritmos de Machine Learning listados abaixo:
 
-LR - Logistic Regression
-KNN - K Nearest Neighbors
-CART - Classification and Regression Trees
-SVM -  Support Vector Machines
-RF - Random Forest
+- LR - Logistic Regression
+- KNN - K Nearest Neighbors
+- CART - Classification and Regression Trees
+- SVM -  Support Vector Machines
+- RF - Random Forest
